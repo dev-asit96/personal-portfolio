@@ -29,7 +29,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About me</h2>
+          <h2 className="major" text-align: center >About me</h2>
           <span className="image main">
             <img src={intro} alt="" />
           </span>
