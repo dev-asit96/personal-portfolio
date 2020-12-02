@@ -102,7 +102,7 @@ class Main extends React.Component {
             <div style={{ display: 'flex' }}>
               <a
                 href={
-                  'https://drive.google.com/file/d/19eWBS1ZDQ25yVRhKTqSJN7logiUm_EtZ/view?usp=sharing'
+                  'https://drive.google.com/file/d/16jzmW4VYp2tTnOkpmQEUE2YT8JWk4E7M/view?usp=sharing'
                 }
               >
                 Resume
