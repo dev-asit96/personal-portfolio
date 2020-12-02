@@ -1,0 +1,58 @@
+{
+  "Title": "Aditya Ketkar | Personal Webpage",
+  "Name": "Aditya Ketkar",
+  "Description": [
+    "Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
+    "I grab every chance I get to travel, learn and create."
+  ],
+  "MainImage": "https://imgur.com/a/MbYNXFL",
+  "BackgroundURL": "",
+
+  "AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+  "AboutContent": [
+    "I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
+    "If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
+    "I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
+    "I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+  ],
+
+  "InternshipsStartLine": "I have interned with :",
+  "InternShips": [
+    {
+      "name": "SPARC Private Limited",
+      "link": ""
+    }
+  ],
+  "ProjectsStartLine": "Some of the side projects I did can be found here :",
+  "Projects": [
+    {
+      "name": "Zehra India",
+      "link": "https://github.com/dev-asit96/mernstack-project"
+    },
+    {
+      "name": "Compass Camera",
+      "link": "https://github.com/dev-asit96/Compass-Camera"
+    },
+    {
+      "name": "SMIS Project",
+      "link": "https://github.com/dev-asit96/kettle-project"
+    },
+    {
+      "name": "Tic-Tac-Toe",
+      "link": "https://github.com/dev-asit96/tic-tac-toe"
+    }
+  ],
+
+  "CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
+  "CV": "https://www.visualcv.com/aditya-ketkar/",
+  "Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+
+  "emailid": "mailto:adityaketkar848@gmail.com",
+  "linkedin": "https://linkedin.com/in/adityaketkar",
+  "wordpress": "https://technoshblog.wordpress.com/",
+  "facebook": "https://www.facebook.com/aditya",
+  "github": "https://github.com/adityaketkar",
+  "instagram": "http://www.adityaketkar.me",
+  "twitter": "https://twitter.com/ketkar_a",
+  "medium": "https://medium.com/@ketkaraditya"
+}
